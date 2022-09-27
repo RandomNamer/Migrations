@@ -1,3 +1,5 @@
 # Migrations
 Before switching to new devices...
-[Macs](./macs.md)
+
+
+## [Macs](./macs.md)
