@@ -27,5 +27,5 @@
     - Tap to click
 - Dock
     - Magnification   
-
-
+- Menu Bar
+    - Spotlight Off
