@@ -19,6 +19,7 @@
 # Shell
 
 - [Oh-My-Zsh](https://ohmyz.sh/#install)
+- [brew](https://brew.sh)
 
 
 # Settings
