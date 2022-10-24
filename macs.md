@@ -16,9 +16,16 @@
 - [VSC](https://code.visualstudio.com/download)
     - Install CLI: Command Palette>Shell command: Install `code` command in PATH
 
+# Shell
+
+- [Oh-My-Zsh](https://ohmyz.sh/#install)
+
 
 # Settings
 
-## Shell
+- Trackpad
+    - Tap to click
+- Dock
+    - Magnification   
 
-- [Oh-My-Zsh](https://ohmyz.sh/#install)
+
