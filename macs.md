@@ -18,3 +18,7 @@
 
 
 # Settings
+
+## Shell
+
+- [Oh-My-Zsh](https://ohmyz.sh/#install)
