@@ -7,3 +7,5 @@ Before switching to new devices...
 ## [Windows](./windows)
 
 - [WSL](./windows/wsl.md)
+
+## [Git](./git.md)
