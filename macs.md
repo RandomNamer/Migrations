@@ -15,6 +15,8 @@
 
 - [VSC](https://code.visualstudio.com/download)
     - Install CLI: Command Palette>Shell command: Install `code` command in PATH
+- [MS Remote Desktop Beta](https://install.appcenter.ms/orgs/rdmacios-k2vy/apps/microsoft-remote-desktop-for-mac/distribution_groups/all-users-of-microsoft-remote-desktop-for-mac)
+    - App Store国区下架了RD
 
 # Shell
 
