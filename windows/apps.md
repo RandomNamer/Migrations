@@ -1,5 +1,6 @@
 # NVIDIA Geforce GameStream
 > Availabilty of GameStream feature relies heavily on internet quality.
+
 > Streaming Service use a request to check if the system supports GameStream. If the request fails (and by default it WILL fail in China), the SHIELD tab won't show up in Geforce Experience
 A sample log `C:\ProgramData\NVIDIA Corporation\nvstreamsvc\SSASCurrent.log` be like:
 ```
@@ -17,4 +18,4 @@ A sample log `C:\ProgramData\NVIDIA Corporation\nvstreamsvc\SSASCurrent.log` be 
 #0(E)[2022-11-03 14:43:13,618]=22:43:13=*00000*{16218914113594989393}&D393A5A6&<GfeWebService>    Failed to get response from gfswl with status = 301, result = 0000000000
 #1(D)[2022-11-03 14:43:13,618]=22:43:13=*00000*{16218914113594989393}&FC3645A1&<GfeWebService>    Request to gfe web server failed 1 of 1. Next attempt in 600000ms.
 ```
-Need to set NVIDIA_WEB_SERVICE_HOST to CN host.
+**Solution:** Add `43.156.27.78 gfwsl.geforce.com` to hosts. Or any other usable proxy.
