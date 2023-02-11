@@ -32,3 +32,6 @@
     - Magnification   
 - Menu Bar
     - Spotlight Off
+
+# Finder
+- Always show all files: `defaults write com.apple.finder AppleShowAllFiles true`
