@@ -7,6 +7,8 @@
 
 # How-tos
 
+- Use Apple's `game-porting-toolkit` to run Windows games/apps: https://gist.github.com/Frityet/448a945690bd7c8cff5fef49daae858e
+
 # Softwares
 
 - [eqMac](https://github.com/bitgapp/eqMac/releases): System-wide eq  (Only fixed-band eqs w/o subscription)
