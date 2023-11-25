@@ -1,13 +1,12 @@
 # Useful Links
 - [ROG Ally Guide](https://github.com/mikeroyal/Asus-ROG-Ally-Guide)
 - [ROG Ally Life](https://rogallylife.com/)
-- 
-# Setup
 
+# Setup
 1. Windows has an annoying OOBE and update process, live with it first
 2. Fuck off all bloatware using BloatyNosy and manual uninstallation.
 3. Reinstall bundled Steam
-4. [Disable and uninstall OneDrive](https://support.microsoft.com/en-us/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+4. Disable OneDrive Sync of User folders, and then [Disable and uninstall OneDrive](https://support.microsoft.com/en-us/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
 # Performance and Battery
 ## Disable Turbo Boost
