@@ -4,9 +4,10 @@
 - 
 # Setup
 
-1. Windows has annoying OOBE and update process, live with it first
+1. Windows has an annoying OOBE and update process, live with it first
 2. Fuck off all bloatware using BloatyNosy and manual uninstallation.
 3. Reinstall bundled Steam
+4. [Disable and uninstall OneDrive](https://support.microsoft.com/en-us/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
 # Performance and Battery
 ## Disable Turbo Boost
