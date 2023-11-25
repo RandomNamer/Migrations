@@ -1,3 +1,7 @@
+# Useful Links
+- [ROG Ally Guide](https://github.com/mikeroyal/Asus-ROG-Ally-Guide)
+- [ROG Ally Life](https://rogallylife.com/)
+- 
 # Setup
 
 1. Windows has annoying OOBE and update process, live with it first
