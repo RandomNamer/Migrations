@@ -38,3 +38,7 @@ Setting Proxy (eg. a Clash server on Windows machine)
 sudo nano /etc/apt/apt.conf
 wirte: Acquire::http::Proxy "http://yourproxyaddress:proxyport";
 ```
+
+## ssh
+
+Unlike WSL1, WSL2 performs like a normal Hyper-V VM using a virtual adapter to connect to internet. New forwarding rules need to be set each time after WSL reboots. See [this script](./wsl2_forwarding.ps1)
