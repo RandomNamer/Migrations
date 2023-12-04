@@ -19,6 +19,9 @@
     - Install CLI: Command Palette>Shell command: Install `code` command in PATH
 - [MS Remote Desktop Beta](https://install.appcenter.ms/orgs/rdmacios-k2vy/apps/microsoft-remote-desktop-for-mac/distribution_groups/all-users-of-microsoft-remote-desktop-for-mac)
     - App Store国区下架了RD
+- smartmontools: Check disk health (dump SMART info)
+  - Install via brew
+  - Sample command: `sudo smartctl --all /dev/disk0`
 
 # Shell
 
