@@ -42,3 +42,6 @@ wirte: Acquire::http::Proxy "http://yourproxyaddress:proxyport";
 ## ssh
 
 Unlike WSL1, WSL2 performs like a normal Hyper-V VM using a virtual adapter to connect to internet. New forwarding rules need to be set each time after WSL reboots. See [this script](./wsl2_forwarding.ps1)
+
+## Mem and CPUs
+Edit `.wslconfig` under Windows user root like [this](https://learn.microsoft.com/en-us/answers/questions/1296124/how-to-increase-memory-and-cpu-limits-for-wsl2-win)
