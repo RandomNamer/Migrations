@@ -17,4 +17,4 @@ This post is writen in Chinese since around globe, people have diverse demands f
  
 # Jellyfin
 -  多backdrop image怎么用？
--  一些(extras)[https://jellyfin.org/docs/general/server/media/shows/#extras-folders]文件夹内的文件仍会被metadata provider抓取到错误的metadata。
+-  一些[extras](https://jellyfin.org/docs/general/server/media/shows/#extras-folders)文件夹内的文件仍会被metadata provider抓取到错误的metadata。
