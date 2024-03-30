@@ -15,4 +15,9 @@ It seems everything of the metadata and watch history is in data/library.db, des
 
 ## Fonts in container
 - `docker exec -it ID bash` to install fonts， like `sudo apt install ttf-wyb-microhei` or `sudo apt install fonts-noto`
-- `docker commit  ID NAME` to 
+- `docker commit  ID NAME` to make your branch of Jellyfin image, with installed packages
+- recreate container using new image
+
+## Library Settings
+- Enable nfo saver to allow `ChineseSubFinder` to dicover your files
+- 
