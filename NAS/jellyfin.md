@@ -1,8 +1,13 @@
-# Full Migration
+# Migration
 
 see [this](https://github.com/MMMZZZZ/Jellyfin-Migrator) script to get migrated with full metadata and user databases, from Windows to Docker on Linux. Basically it edits the databases with file path replacements and date modifications. The script is well-documented and works just fine. Or you can write a cleaner one with all the db informations in the script.
 
-# Only migrate files
+## Known-issues for `Jellyfin-Migrator`
+- ISO string issue; python `Path` issue: Small bugs, debug python script, find and deal with it.
+- `path_replacements`: Need to include all config paths, for example, `/config/root`
+- The script is migrating from `source_root` to `original_root` by default, `target_root` is untouched.
+
+## Only migrate file mounting points on same installation
 
 According to [Jellyfin Doc](https://jellyfin.org/docs/general/administration/migrate/), the database has to be tempered after migrating the files to another location. It's like a migration on the same system, but we only want the database from the result.
 
