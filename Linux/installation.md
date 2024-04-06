@@ -4,6 +4,8 @@ https://askubuntu.com/questions/1359892/acpi-bios-error-while-installing-ubuntu-
 
 # Dual Booting and Booting Windows in VM:
 
-- [In VirtualBox](https://joeeey.com/blog/virtualbox-raw-disk-access-booting/)
+- [With VirtualBox](https://joeeey.com/blog/virtualbox-raw-disk-access-booting/)
+  - Configure rdp ports and access in gui
+  -  `VBoxManage startvm <vm_name> --type headless` to launch in background
 
 - Why not Proxmox?
