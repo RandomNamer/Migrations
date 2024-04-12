@@ -40,3 +40,4 @@
 
 # Finder
 - Always show all files: `defaults write com.apple.finder AppleShowAllFiles true`
+- Stop polluting your network shares with DS_Store: `defaults write com.apple.desktopservices DSDontWriteNetworkStores true`
