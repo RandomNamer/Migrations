@@ -22,6 +22,8 @@
 - smartmontools: Check disk health (dump SMART info)
   - Install via brew
   - Sample command: `sudo smartctl --all /dev/disk0`
+ 
+- AmorphousDiskMark
 
 # Shell
 
