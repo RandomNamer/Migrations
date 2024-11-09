@@ -24,6 +24,7 @@
   - Sample command: `sudo smartctl --all /dev/disk0`
  
 - AmorphousDiskMark
+- Monitor control: screen brightness and sound control is enough!
 
 # Shell
 
@@ -43,3 +44,4 @@
 # Finder
 - Always show all files: `defaults write com.apple.finder AppleShowAllFiles true`
 - Stop polluting your network shares with DS_Store: `defaults write com.apple.desktopservices DSDontWriteNetworkStores true`
+- Show address bar in bottom: View > Show Folder bar 
